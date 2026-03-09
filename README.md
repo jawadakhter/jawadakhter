@@ -42,10 +42,10 @@ I am a dedicated **Full Stack Developer** and a **BSCS student** at Virtual Univ
 
 ### 🔗 **Connect with Me**
 
-* 📧 **Email:** [akhterjawad566@gmail.com](mailto:akhterjawad566@gmail.com)
-* 🌐 **Portfolio:** [muhammadjawad.dev](https://muhammadjawad.dev/)
-* 💼 **LinkedIn:** [Muhammad Jawad](https://www.linkedin.com/in/muhammad-jawad-1814772a9/)
-* 🚀 **Fiverr:** [Hire Me on Fiverr](https://www.fiverr.com/s/ljWWZoQ)
+* 📧 **Email:** <a href="mailto:akhterjawad566@gmail.com">akhterjawad566@gmail.com</a>
+* 🌐 **Portfolio:** <a href="https://muhammadjawad.dev/" target="_blank">muhammadjawad.dev</a>
+* 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/muhammad-jawad-1814772a9/" target="_blank">Muhammad Jawad</a>
+* 🚀 **Fiverr:** <a href="https://www.fiverr.com/s/ljWWZoQ" target="_blank">Hire Me on Fiverr</a>
 
 ---
 
