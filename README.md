@@ -42,6 +42,7 @@ I am a dedicated **Full Stack Developer** and a **BSCS student** at Virtual Univ
 
 ### 🔗 **Connect with Me**
 
+* 📧 **Email:** [akhterjawad566@gmail.com](mailto:akhterjawad566@gmail.com)
 * 🌐 **Portfolio:** [muhammadjawad.dev](https://muhammadjawad.dev/)
 * 💼 **LinkedIn:** [Muhammad Jawad](https://www.linkedin.com/in/muhammad-jawad-1814772a9/)
 * 🚀 **Fiverr:** [Hire Me on Fiverr](https://www.fiverr.com/s/ljWWZoQ)
