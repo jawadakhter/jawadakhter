@@ -1,5 +1,5 @@
 # 👋 Welcome to Muhammad Jawad’s GitHub  
-### 💼 Full Stack Developer | 2 Years in Mobile & Web App Development  
+### 💼 Full Stack Developer | 1+ Years in Mobile & Web App Development  
 
 I am a dedicated **Full Stack Developer** and a **BSCS student** at Virtual University of Pakistan. With over 14 months of professional experience, I specialize in building responsive web applications, modern UI/UX designs, and scalable backend solutions. I love turning complex problems into simple, beautiful, and intuitive designs.
 
@@ -37,15 +37,6 @@ I am a dedicated **Full Stack Developer** and a **BSCS student** at Virtual Univ
 
 * **BS in Computer Science:** Virtual University of Pakistan (In Progress).
 * **Web & Mobile App Development:** Saylani Mass IT Training (SMIT).
-* **Foundations of Project Management:** Google (via Coursera).
-
----
-
-### 🏆 **Key Projects**
-
-**Fundraiser Platform & Share Distribution** * Led end-to-end development handling architecture, frontend, backend, and deployment.
-* Successfully launched attracting 250+ investors.
-* [View Project](https://investin.javatimescaffe.com/sp)
 
 ---
 
