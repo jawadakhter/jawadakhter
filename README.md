@@ -36,7 +36,10 @@ I am a dedicated **Full Stack Developer** and a **BSCS student** at Virtual Univ
 ### 🎓 **Education & Certifications**
 
 * **BS in Computer Science:** Virtual University of Pakistan (In Progress).
+* **IBM Full Stack Software Developer Professional Certificate:** Coursera | IBM (In Progress).
 * **Web & Mobile App Development:** Saylani Mass IT Training (SMIT).
+* **Introduction to Front End Development:** Simplilearn.
+* **Front End Development - HTML:** Great Learning Academy.
 
 ---
 
