@@ -7,29 +7,33 @@ I am a dedicated **Full Stack Developer** and a **BSCS student** at Virtual Univ
 
 ### 🛠️ **Technical Skills**
 
-🔹 **Frontend Development** * **Languages & Frameworks:** HTML5, CSS3, JavaScript (ES6+), ReactJS, NextJS, VueJS.
+🔹 **Frontend Development**
+* **Languages & Frameworks:** HTML5, CSS3, JavaScript (ES6+), ReactJS, NextJS, VueJS.
 * **Styling & Interaction:** TailwindCSS, Bootstrap, ShadCN UI.
-* **Animation & Motion:** Framer Motion (motion.dev), Framer, GSAP (GreenSock Animation Platform).
+* **Animation & Motion:** Framer Motion, Framer, GSAP (GreenSock Animation Platform).
 
-🔹 **Backend Development** * **Server-Side:** NodeJS, ExpressJS, Laravel, Strapi (Headless CMS).
-* **APIs & Architecture:** RESTful APIs, GraphQL.
+🔹 **Backend & Database**
+* **Server-Side:** NodeJS, ExpressJS, Laravel, Strapi.
+* **Databases:** **Supabase**, MongoDB, MySQL, Firebase.
+* **APIs & Tools:** RESTful APIs, **Resend (Email API)**, **Zoho Mail**.
 
-🔹 **Databases & Cloud** * **Databases:** MongoDB, MySQL, Firebase.
-* **Hosting & Deployment:** Vercel (for NextJS/React), Hostinger.
-
-🔹 **Version Control & DevOps** * **Tools:** Git, GitHub.
-* **CI/CD:** GitHub Actions (for automated workflows).
+🔹 **Cloud & DevOps**
+* **Hosting:** Vercel (Expertise in Next.js deployment), Hostinger.
+* **Version Control:** Git, GitHub.
 
 ---
 
 ### 🚀 **Professional Experience**
 
-**Full Stack Developer – Raddium Technologies** *Dec 2024 – Feb 2026* * Started as Front-End Intern and promoted to Full-Time Developer, contributing to multiple web projects.
-* Developed responsive web applications using ReactJS, VueJS, and Laravel.
-* Built full-stack solutions, including corporate platforms like **Lex9 Systems**.
-* Optimized UI performance and maintained ERP systems.
+**Freelance Full-Stack Developer – Multi Biz Solutions** *April 2026 – Present*
+* Developing high-performance, SEO-friendly web applications using **Next.js** and **Supabase**.
+* Implementing custom **E-commerce solutions** and **Online Appointment Booking** systems.
+* Integrating secure payment gateways and automated email notification systems via **Resend**.
 
-**Web & Mobile App Development (SMIT) – Certification** *Jan 2024 – Oct 2024* * Gained hands-on experience in modern web technologies and mobile app structures.
+**Full Stack Developer – Raddium Technologies** *Dec 2024 – Feb 2026*
+* Contributed to multiple web projects, progressing from Front-End Intern to Full-Time Developer.
+* Developed responsive applications using ReactJS, VueJS, and Laravel.
+* Maintained ERP systems and optimized UI performance for corporate platforms.
 
 ---
 
@@ -38,8 +42,7 @@ I am a dedicated **Full Stack Developer** and a **BSCS student** at Virtual Univ
 * **BS in Computer Science:** Virtual University of Pakistan (In Progress).
 * **IBM Full Stack Software Developer Professional Certificate:** Coursera | IBM (In Progress).
 * **Web & Mobile App Development:** Saylani Mass IT Training (SMIT).
-* **Introduction to Front End Development:** Simplilearn.
-* **Front End Development - HTML:** Great Learning Academy.
+* **Diploma of Associate Engineer (DAE):** Mechanical Engineering.
 
 ---
 
@@ -52,4 +55,5 @@ I am a dedicated **Full Stack Developer** and a **BSCS student** at Virtual Univ
 
 ---
 
-### 📊 **Languages & Tools** `Node.js` `React.js` `Next.js` `Express.js` `MongoDB` `JavaScript` `Tailwind CSS` `Git` `GitHub` `Vercel`
+### 📊 **Languages & Tools**
+`Next.js` `React.js` `Supabase` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `JavaScript` `Git` `Vercel` `Resend`
