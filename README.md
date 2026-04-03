@@ -13,9 +13,9 @@ I am a dedicated **Full Stack Developer** and a **BSCS student** at Virtual Univ
 * **Animation & Motion:** Framer Motion, Framer, GSAP (GreenSock Animation Platform).
 
 🔹 **Backend & Database**
-* **Server-Side:** NodeJS, ExpressJS, Laravel, Strapi.
-* **Databases:** **Supabase**, MongoDB, MySQL, Firebase.
-* **APIs & Tools:** RESTful APIs, **Resend (Email API)**, **Zoho Mail**.
+* **Server-Side:** NodeJS, ExpressJS, Laravel, Supabase, Strapi (Headless CMS).
+* **Databases:** PostgreSQL, MongoDB, MySQL, Firebase.
+* **APIs & Tools:** RESTful APIs, GraphQL, **Resend (Email API)**, **Zoho Mail**.
 
 🔹 **Cloud & DevOps**
 * **Hosting:** Vercel (Expertise in Next.js deployment), Hostinger.
@@ -42,7 +42,7 @@ I am a dedicated **Full Stack Developer** and a **BSCS student** at Virtual Univ
 * **BS in Computer Science:** Virtual University of Pakistan (In Progress).
 * **IBM Full Stack Software Developer Professional Certificate:** Coursera | IBM (In Progress).
 * **Web & Mobile App Development:** Saylani Mass IT Training (SMIT).
-* **Diploma of Associate Engineer (DAE):** Mechanical Engineering.
+* **DAE - Diploma · Engineering Sciences** Pakistan Swedish Institute of Technology.
 
 ---
 
