@@ -5,7 +5,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-muhammadjawad.dev-E8572E?style=flat-square&logo=vercel&logoColor=white)](https://muhammadjawad.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Jawad-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-jawad-1814772a9/)
-[![Email](https://img.shields.io/badge/Email-akhterjawad566@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:akhterjawad566@gmail.com)
+[![Email](https://img.shields.io/badge/Email-jawad@muhammadjawad.dev-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jawad@muhammadjawad.dev)
 [![Fiverr](https://img.shields.io/badge/Fiverr-Hire%20Me-1DBF73?style=flat-square&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/ljWWZoQ)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Message%20Me-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923141067212)
 
@@ -81,7 +81,7 @@ Joined as a Front-End Developer Intern and progressed to a full-time developer r
 |--------|------------|--------|
 | BSCS — Bachelor of Computer Science | Virtual University of Pakistan | Nov 2025 – Present |
 | Web & Mobile App Development | Saylani Mass IT Training (SMIT) | Jan 2024 – Oct 2024 |
-| DAE — Mechanical Technology · A Grade | Pakistan Swedish Institute of Technology | Sep 2021 – Aug 2024 |
+| DAE - Diploma of Engineering Sciences · A Grade | Pakistan Swedish Institute of Technology | Sep 2021 – Aug 2024 |
 
 ---
 
