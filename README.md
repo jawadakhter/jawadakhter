@@ -85,7 +85,7 @@ Joined as a Front-End Developer Intern and progressed to a full-time developer r
 |--------|------------|--------|
 | BSCS — Bachelor of Computer Science | Virtual University of Pakistan | Nov 2025 – Present |
 | Web & Mobile App Development | Saylani Mass IT Training (SMIT) | Jan 2024 – Oct 2024 |
-| DAE — Mechanical Technology · A Grade | Pakistan Swedish Institute of Technology | Sep 2021 – Aug 2024 |
+| DAE — Diploma of Engineering Sciences · A Grade | Pakistan Swedish Institute of Technology | Sep 2021 – Aug 2024 |
 
 ---
 
