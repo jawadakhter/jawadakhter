@@ -17,12 +17,12 @@
 
 I'm a **Full Stack Developer** and BSCS student at Virtual University of Pakistan with **1+ year of professional experience** building production-grade web applications. I specialize in architecting end-to-end solutions with the MERN stack and Next.js — from database schema and backend APIs to pixel-perfect, animated frontends.
 
-Since March 2026, I've been working independently on remote freelance projects, delivering high-performance, SEO-optimized web applications for clients across multiple industries.
+Currently collaborating with **Multi Biz Solutions** as a Full-Stack Developer while continuing to take on independent remote projects, delivering complete digital solutions for businesses across multiple industries.
 
 <table>
 <tr>
 <td align="center"><b>7+</b><br><sub>Projects Completed</sub></td>
-<td align="center"><b>2+</b><br><sub>Satisfied Clients</sub></td>
+<td align="center"><b>3+</b><br><sub>Satisfied Clients</sub></td>
 <td align="center"><b>1+</b><br><sub>Years of Experience</sub></td>
 <td align="center"><b>4</b><br><sub>Core Services</sub></td>
 </tr>
@@ -65,13 +65,17 @@ Since March 2026, I've been working independently on remote freelance projects, 
 
 ## Professional Experience
 
+**Full Stack Developer — Multi Biz Solutions** *(May 2026 – Present)*
+
+Working as a Full-Stack Developer to design and build complete digital solutions for client businesses — handling everything from database architecture and server-side logic to responsive, user-facing interfaces. Deliverables range from custom e-commerce platforms and online appointment booking systems to corporate websites and business portals. Each project includes integrated payment processing, automated client communication flows, and SEO-optimized structure, ensuring every site is fast, functional, and built to convert.
+
 **Freelance Full Stack Developer** — Remote & Independent *(Jan 2025 – Present)*
 
-Delivered freelance projects alongside full-time employment from Jan 2025; transitioned to full-time independent practice since March 2026. Client projects include **Pinkel's** (leadership coaching platform), **Tamjab** (corporate consultancy site), and **Wadi Al Sahel** (tourism platform) — built with Next.js, React, TailwindCSS, and Supabase, with a focus on SEO performance and custom backend integrations.
+Delivered freelance projects alongside full-time employment from Jan 2025; transitioned to full-time independent practice since March 2026. Client projects include **Pinkel's** (leadership coaching platform), **Tamjab** (corporate consultancy site), and **Wadi Al Sahel** (tourism platform) — built with a focus on SEO performance, custom backend integrations, and high-quality user experience.
 
 **Full Stack Developer — [Radium Technologies](https://radiumpk.com/)** *(Dec 2024 – Feb 2026)*
 
-Joined as a Front-End Developer Intern and progressed to a full-time developer role. Built responsive, production-ready front-end projects and full-stack solutions using ReactJS, VueJS, and Laravel. Maintained ERP systems and optimized UI performance across multiple corporate platforms.
+Joined as a Front-End Developer Intern and progressed to a full-time developer role. Built responsive, production-ready front-end projects and full-stack solutions using ReactJS, VueJS, and Laravel. Maintained ERP systems and optimized UI performance across multiple corporate platforms, including Lex9.com.
 
 ---
 
@@ -81,7 +85,7 @@ Joined as a Front-End Developer Intern and progressed to a full-time developer r
 |--------|------------|--------|
 | BSCS — Bachelor of Computer Science | Virtual University of Pakistan | Nov 2025 – Present |
 | Web & Mobile App Development | Saylani Mass IT Training (SMIT) | Jan 2024 – Oct 2024 |
-| DAE - Diploma of Engineering Sciences · A Grade | Pakistan Swedish Institute of Technology | Sep 2021 – Aug 2024 |
+| DAE — Mechanical Technology · A Grade | Pakistan Swedish Institute of Technology | Sep 2021 – Aug 2024 |
 
 ---
 
@@ -126,7 +130,7 @@ No silence periods, no surprises — regular milestone demos so you see the prod
 |--|--|
 | 🌐 Portfolio | [muhammadjawad.dev](https://muhammadjawad.dev/) |
 | 💼 LinkedIn | [Muhammad Jawad](https://www.linkedin.com/in/muhammad-jawad-1814772a9/) |
-| 📧 Email | [akhterjawad566@gmail.com](mailto:akhterjawad566@gmail.com) |
+| 📧 Email | [jawad@muhammadjawad.dev](mailto:jawad@muhammadjawad.dev) |
 | 🚀 Fiverr | [Hire Me on Fiverr](https://www.fiverr.com/s/ljWWZoQ) |
 | 💬 WhatsApp | [+92 314 1067212](https://wa.me/923141067212) |
 
